@@ -1,9 +1,8 @@
-
 # p5tank
 
 ## 概要
 幾何学図形を組み合わせた３Dハリボテ戦車を操作してマトを狙い撃つゲーム。
-![1](https://user-images.githubusercontent.com/31681741/30155267-5be9848a-93f7-11e7-997d-4f7604961f57.png)
+![1](https://user-images.githubusercontent.com/31681741/30155267-5be9848a-93f7-11e7-997d-4f7604961f57.png)  
 前進、旋回などの基本操作に加え、スムーズな視点操作（右左、ズーム）が可能。
 
 ## インストール
